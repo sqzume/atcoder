@@ -1,3 +1,4 @@
+workspace = {members = ["abc396", "abc403", "abc404", "typical90"],exclude = []}
 [package]
 name = "atcoder"
 version = "0.1.0"
